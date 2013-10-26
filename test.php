@@ -6,7 +6,7 @@
  *
  */
 
-$message = "Hello. GitHub World.";
+$message = "Hello. GitHub World. Branch";
 print $message . "\n";
 exit();
 ?>
