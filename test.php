@@ -4,7 +4,7 @@
  *
  * This is a test script
  *
- * @update	2013.10.27	create test_branch
+ * @update	2013.10.27	create test_remote
  *
  */
 
